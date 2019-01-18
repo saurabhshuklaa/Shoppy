@@ -59,8 +59,8 @@
                     <br>
                     <br>
                     <br>
-                      <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
-            <p>Welcome to Ecom</p>
+                   <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
+                       <CENTER><H2><p>WELCOME TO SHOPPY</p></H2>   </CENTER>
         </div>
     </body>
 </html>
